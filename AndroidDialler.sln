@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidDialler", "AndroidDialler\AndroidDialler.csproj", "{45F0196A-F46D-49ED-AE57-847A014ED0CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45F0196A-F46D-49ED-AE57-847A014ED0CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45F0196A-F46D-49ED-AE57-847A014ED0CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45F0196A-F46D-49ED-AE57-847A014ED0CC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{45F0196A-F46D-49ED-AE57-847A014ED0CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45F0196A-F46D-49ED-AE57-847A014ED0CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45F0196A-F46D-49ED-AE57-847A014ED0CC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {002F5139-4F9F-4C84-8ED6-F7D7EB883BD3}
+	EndGlobalSection
+EndGlobal
